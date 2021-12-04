@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+    font-family: 'Righteous', cursive;
+}
+h1{
+    color: white;
+    text-align: center;
+    border: red 7px solid;
+    font-size: 70px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 5px;
+}
+h4{
+    color: white;
+    font-size: 35px ;
+    text-align: center;
+}
+#zero{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border:10px red solid;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+#um{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border:10px red solid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#dois{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border:10px red solid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#tres{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border:10px red solid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#quatro{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border:10px red solid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#cinco{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border:10px red solid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+img{
+    weight: 350px;
+    height: 350px;
+}
+.jn{
+     
+}
+
+.jn:hover{
+    transform: scale(1.2);
+    opacity: 1.0;
+    border: #e63946 dashed 3px;
+
+}
+.a {
+    text-decoration: blue;
+}
+footer{
+    color: white;
+    text-align: center;
+}
